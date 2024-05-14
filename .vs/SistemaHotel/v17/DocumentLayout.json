@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan0\\Desktop\\2\\102_SistemaHotelBlazorNet7-main\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8E05F2-C0F5-4177-AB0D-59367D4E608D}|SistemaHotel\\Server\\SistemaHotel.Server.csproj|c:\\users\\juan0\\desktop\\2\\102_sistemahotelblazornet7-main\\102_sistemahotelblazornet7-main\\sistemahotel\\sistemahotel\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB8E05F2-C0F5-4177-AB0D-59367D4E608D}|SistemaHotel\\Server\\SistemaHotel.Server.csproj|solutionrelative:sistemahotel\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733577D2-4083-4A03-9C6E-17C0EE88407F}|SistemaHotel\\Client\\SistemaHotel.Client.csproj|c:\\users\\juan0\\desktop\\2\\102_sistemahotelblazornet7-main\\102_sistemahotelblazornet7-main\\sistemahotel\\sistemahotel\\client\\pages\\modal\\mdhabitacion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{733577D2-4083-4A03-9C6E-17C0EE88407F}|SistemaHotel\\Client\\SistemaHotel.Client.csproj|solutionrelative:sistemahotel\\client\\pages\\modal\\mdhabitacion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733577D2-4083-4A03-9C6E-17C0EE88407F}|SistemaHotel\\Client\\SistemaHotel.Client.csproj|c:\\users\\juan0\\desktop\\2\\102_sistemahotelblazornet7-main\\102_sistemahotelblazornet7-main\\sistemahotel\\sistemahotel\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{733577D2-4083-4A03-9C6E-17C0EE88407F}|SistemaHotel\\Client\\SistemaHotel.Client.csproj|solutionrelative:sistemahotel\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juan0\\Desktop\\2\\102_SistemaHotelBlazorNet7-main\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaHotel\\Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\juan0\\Desktop\\2\\102_SistemaHotelBlazorNet7-main\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Server\\appsettings.json",
+              "RelativeToolTip": "SistemaHotel\\Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T00:12:46.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\juan0\\Desktop\\2\\102_SistemaHotelBlazorNet7-main\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "SistemaHotel\\Client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\juan0\\Desktop\\2\\102_SistemaHotelBlazorNet7-main\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Client\\wwwroot\\index.html",
+              "RelativeToolTip": "SistemaHotel\\Client\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-29T22:20:11.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MdHabitacion.razor",
+              "DocumentMoniker": "C:\\Users\\juan0\\Desktop\\2\\102_SistemaHotelBlazorNet7-main\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Client\\Pages\\Modal\\MdHabitacion.razor",
+              "RelativeDocumentMoniker": "SistemaHotel\\Client\\Pages\\Modal\\MdHabitacion.razor",
+              "ToolTip": "C:\\Users\\juan0\\Desktop\\2\\102_SistemaHotelBlazorNet7-main\\102_SistemaHotelBlazorNet7-main\\SistemaHotel\\SistemaHotel\\Client\\Pages\\Modal\\MdHabitacion.razor",
+              "RelativeToolTip": "SistemaHotel\\Client\\Pages\\Modal\\MdHabitacion.razor",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T22:19:54.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
